@@ -6,14 +6,11 @@
 
 - In package.json replace "test"
 
-
-*  ```
-    "scripts": {
+   * ```{
+     "scripts": {
     "test": "mocha || true"
-  }
-  ```
-
-
+     }```
+  
 
 ![screenshot](./image/test.png)
 
