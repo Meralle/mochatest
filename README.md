@@ -10,6 +10,11 @@
     "test": "mocha || true"
     ```
   
+    ```{
+    "plugins": [
+      ["transform-object-rest-spread", { "useBuiltIns": true }]
+    ] }```
+  
 
 ![screenshot](./image/test.png)
 
