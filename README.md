@@ -10,6 +10,9 @@
       "test": "mocha || true"
      } ```
     
+## Terminal
+- ```npm run test```
+
 
 ![screenshot](./image/test.png)
 
